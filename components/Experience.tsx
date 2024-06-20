@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import { workExperience } from "@/data";
 import { Button } from "./ui/MovingBorders";
 
